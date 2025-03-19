@@ -5,7 +5,7 @@
             "name": "Debug",
             "type": "lldb",
             "request": "launch",
-            "program": "${workspaceFolder}/target/debug/day01_part1",
+            "program": "${workspaceFolder}/target/debug/aoc2024-rust",
             "args": [],
             "cwd": "${workspaceFolder}",
             "preLaunchTask": "cargo build"
